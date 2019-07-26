@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+        <head>
+                <meta charset="utf-8">
+                <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                <title>Hotel Feedback</title>
+                <meta name="description" content="">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                <link rel="stylesheet" href="">
+        </head>
+        <body>
+                <h1>Hotel Feedback Form</h1>
+
+                <form method="get">
+
+                <h3>Are you from inside the US? Or Outside the USA?</h3>
+
+                <label for="inusa" >Inside: </label>
+                <input id = "inusa" type="radio" name="loc" value="inside">
+
+                <label for="outsideusa" >Outside: </label>
+                <input id = "outsideusa" type="radio" name="loc" value="outside">
+                
+                <h2>How was your service?</h2>
+                <select name="stars" id="">
+                        <option value="Great">3</option>
+                        <option value="Ok">2</option>
+                        <option value="Bad">1</option>
+                </select>
+
+                <h2>Any Other Feedback?</h2>
+                <textarea name="my_text" id="" cols="30" rows="30" required></textarea>
+                <input type="submit">
+                </form>
+
+                
+                <script src="" async defer></script>
+        </body>
+</html>
