@@ -1,0 +1,21 @@
+body{
+        background-color: bisque;
+        background: url(https://www.thesun.co.uk/wp-content/uploads/2019/06/NINTCHDBPICT000492510539.jpg?w=1240)
+}
+
+div{
+        background-color: blue;
+        border-color: orange;
+        border-width: 0.1em;
+        border-style: dotted;
+}
+
+p{
+color: yellow;
+}
+
+span{
+        background: red;
+        color: black;
+
+}
