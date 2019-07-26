@@ -2,8 +2,6 @@
         height: 400px;
         width: 800px;
         margin: auto;
-        padding-right: 2px;
-        padding-left: 2px;
 }
 
 #soul{
@@ -14,20 +12,30 @@
 
 #one{
         background-color: #247BA0;
+        border: 2px solid white;
+
 }
 
 #two{
         background-color: #70C1B3;
+        border: 2px solid white;
+
 }
 
 #three{
         background-color: #B2DBBF;
+        border: 2px solid white;
+
 }
 
 #four{
         background-color: #F3FFBD;
+        border: 2px solid white;
+
 }
 
 #five{
         background-color: #FF1654;
+        border: 2px solid white;
+
 }
