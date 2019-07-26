@@ -1,0 +1,33 @@
+.parameters{
+        height: 400px;
+        width: 800px;
+        margin: auto;
+        padding-right: 2px;
+        padding-left: 2px;
+}
+
+#soul{
+        text-align: center;
+        font-family: 'Butcherman', cursive;
+
+}
+
+#one{
+        background-color: #247BA0;
+}
+
+#two{
+        background-color: #70C1B3;
+}
+
+#three{
+        background-color: #B2DBBF;
+}
+
+#four{
+        background-color: #F3FFBD;
+}
+
+#five{
+        background-color: #FF1654;
+}
